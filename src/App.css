@@ -1,0 +1,13 @@
+.container {
+  display: -webkit-flex;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+  -webkit-flex-direction: column;
+}
+
+.elem {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: red;
+}
